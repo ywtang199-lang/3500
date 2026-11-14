@@ -1,0 +1,530 @@
+{
+  "generated_on": "2026-11-14",
+  "actual_entries": 468,
+  "ids_contiguous": true,
+  "same_order_across_three_editions": true,
+  "duplicate_lemmas": 0,
+  "missing_ipa": 0,
+  "noun_entries_missing_gender": 0,
+  "lexique_missing_words": [],
+  "lexique_alias_words": [
+    "cœur → coeur",
+    "œil → oeil",
+    "œuf → oeuf",
+    "sœur → soeur"
+  ],
+  "flelex_missing_words": [
+    "cours",
+    "oui",
+    "bail",
+    "bondé",
+    "brûlure",
+    "cru",
+    "épicé",
+    "expirer",
+    "facultatif",
+    "justificatif",
+    "pansement",
+    "périmé",
+    "portion",
+    "radiateur",
+    "reçu"
+  ],
+  "flelex_alias_words": [
+    "cœur → coeur",
+    "œil → oeil",
+    "œuf → oeuf",
+    "sœur → soeur"
+  ],
+  "flelex_level_counts": {
+    "A1": 207,
+    "B1": 113,
+    "A2": 39,
+    "B2": 88,
+    "未匹配": 15,
+    "C1": 5,
+    "C2": 1
+  },
+  "ipa_source_difference_words": [
+    "aimer",
+    "améliorer",
+    "collègue",
+    "commencer",
+    "connaître",
+    "disponible",
+    "donner",
+    "fromage",
+    "joli",
+    "négociation",
+    "procédure",
+    "professeur",
+    "accessible",
+    "bricoler",
+    "chronique",
+    "colis",
+    "commande",
+    "commander",
+    "correspondance",
+    "corriger",
+    "dossier",
+    "empêcher",
+    "exposé",
+    "favoriser",
+    "freiner",
+    "grignoter",
+    "locataire",
+    "monnaie",
+    "négocier",
+    "nettoyer",
+    "notamment",
+    "obligatoire",
+    "ordonnance",
+    "oreiller",
+    "prévenir",
+    "promotion",
+    "propriétaire",
+    "raisonnable",
+    "recommander",
+    "reporter",
+    "robinet",
+    "saigner",
+    "supposer",
+    "trottoir"
+  ],
+  "ipa_source_differences": [
+    {
+      "fr": "aimer",
+      "LeXiK": "/ɛ.me/",
+      "Lexique": "eme",
+      "note": "两源转写有差异；LeXiK=ɛ.me；Lexique=eme"
+    },
+    {
+      "fr": "améliorer",
+      "LeXiK": "/a.me.ljɔ.ʁe/",
+      "Lexique": "ameljoʁe",
+      "note": "两源转写有差异；LeXiK=a.me.ljɔ.ʁe；Lexique=ameljoʁe"
+    },
+    {
+      "fr": "collègue",
+      "LeXiK": "/kɔ.lɛɡ/",
+      "Lexique": "kolɛg",
+      "note": "两源转写有差异；LeXiK=kɔ.lɛɡ；Lexique=kolɛg"
+    },
+    {
+      "fr": "commencer",
+      "LeXiK": "/kɔ.mɑ̃.se/",
+      "Lexique": "komɑ̃se",
+      "note": "两源转写有差异；LeXiK=kɔ.mɑ̃.se；Lexique=komɑ̃se"
+    },
+    {
+      "fr": "connaître",
+      "LeXiK": "/kɔ.nɛtʁ/",
+      "Lexique": "konɛtʁ",
+      "note": "两源转写有差异；LeXiK=kɔ.nɛtʁ；Lexique=konɛtʁ"
+    },
+    {
+      "fr": "disponible",
+      "LeXiK": "/dis.pɔ.nibl/",
+      "Lexique": "disponibl",
+      "note": "两源转写有差异；LeXiK=dis.pɔ.nibl；Lexique=disponibl"
+    },
+    {
+      "fr": "donner",
+      "LeXiK": "/dɔ.ne/",
+      "Lexique": "done",
+      "note": "两源转写有差异；LeXiK=dɔ.ne；Lexique=done"
+    },
+    {
+      "fr": "fromage",
+      "LeXiK": "/fʁɔ.maʒ/",
+      "Lexique": "fʁomaʒ",
+      "note": "两源转写有差异；LeXiK=fʁɔ.maʒ；Lexique=fʁomaʒ"
+    },
+    {
+      "fr": "joli",
+      "LeXiK": "/ʒɔ.li/",
+      "Lexique": "ʒoli",
+      "note": "两源转写有差异；LeXiK=ʒɔ.li；Lexique=ʒoli"
+    },
+    {
+      "fr": "négociation",
+      "LeXiK": "/ne.ɡɔ.sja.sjɔ̃/",
+      "Lexique": "negosjasjɔ̃",
+      "note": "两源转写有差异；LeXiK=ne.ɡɔ.sja.sjɔ̃；Lexique=negosjasjɔ̃"
+    },
+    {
+      "fr": "procédure",
+      "LeXiK": "/pʁɔ.se.dyʁ/",
+      "Lexique": "pʁosedyʁ",
+      "note": "两源转写有差异；LeXiK=pʁɔ.se.dyʁ；Lexique=pʁosedyʁ"
+    },
+    {
+      "fr": "professeur",
+      "LeXiK": "/pʁɔ.fɛ.sœʁ/",
+      "Lexique": "pʁofɛsœʁ",
+      "note": "两源转写有差异；LeXiK=pʁɔ.fɛ.sœʁ；Lexique=pʁofɛsœʁ"
+    },
+    {
+      "fr": "accessible",
+      "LeXiK": "/ak.sɛ.sibl/",
+      "Lexique": "aksesibl",
+      "note": "两源转写有差异；LeXiK=ak.sɛ.sibl；Lexique=aksesibl"
+    },
+    {
+      "fr": "bricoler",
+      "LeXiK": "/bʁi.kɔ.le/",
+      "Lexique": "bʁikole",
+      "note": "两源转写有差异；LeXiK=bʁi.kɔ.le；Lexique=bʁikole"
+    },
+    {
+      "fr": "chronique",
+      "LeXiK": "/kʁɔ.nik/",
+      "Lexique": "kʁonik",
+      "note": "两源转写有差异；LeXiK=kʁɔ.nik；Lexique=kʁonik"
+    },
+    {
+      "fr": "colis",
+      "LeXiK": "/kɔ.li/",
+      "Lexique": "koli",
+      "note": "两源转写有差异；LeXiK=kɔ.li；Lexique=koli"
+    },
+    {
+      "fr": "commande",
+      "LeXiK": "/kɔ.mɑ̃d/",
+      "Lexique": "komɑ̃d",
+      "note": "两源转写有差异；LeXiK=kɔ.mɑ̃d；Lexique=komɑ̃d"
+    },
+    {
+      "fr": "commander",
+      "LeXiK": "/kɔ.mɑ̃.de/",
+      "Lexique": "komɑ̃de",
+      "note": "两源转写有差异；LeXiK=kɔ.mɑ̃.de；Lexique=komɑ̃de"
+    },
+    {
+      "fr": "correspondance",
+      "LeXiK": "/kɔ.ʁɛs.pɔ̃.dɑ̃s/",
+      "Lexique": "koʁɛspɔ̃dɑ̃s",
+      "note": "两源转写有差异；LeXiK=kɔ.ʁɛs.pɔ̃.dɑ̃s；Lexique=koʁɛspɔ̃dɑ̃s"
+    },
+    {
+      "fr": "corriger",
+      "LeXiK": "/kɔ.ʁi.ʒe/",
+      "Lexique": "koʁiʒe",
+      "note": "两源转写有差异；LeXiK=kɔ.ʁi.ʒe；Lexique=koʁiʒe"
+    },
+    {
+      "fr": "dossier",
+      "LeXiK": "/dɔ.sje/",
+      "Lexique": "dosje",
+      "note": "两源转写有差异；LeXiK=dɔ.sje；Lexique=dosje"
+    },
+    {
+      "fr": "empêcher",
+      "LeXiK": "/ɑ̃.pɛ.ʃe/",
+      "Lexique": "ɑ̃peʃe",
+      "note": "两源转写有差异；LeXiK=ɑ̃.pɛ.ʃe；Lexique=ɑ̃peʃe"
+    },
+    {
+      "fr": "exposé",
+      "LeXiK": "/ɛks.pɔ.ze/",
+      "Lexique": "ɛkspoze",
+      "note": "两源转写有差异；LeXiK=ɛks.pɔ.ze；Lexique=ɛkspoze"
+    },
+    {
+      "fr": "favoriser",
+      "LeXiK": "/fa.vɔ.ʁi.ze/",
+      "Lexique": "favoʁize",
+      "note": "两源转写有差异；LeXiK=fa.vɔ.ʁi.ze；Lexique=favoʁize"
+    },
+    {
+      "fr": "freiner",
+      "LeXiK": "/fʁɛ.ne/",
+      "Lexique": "fʁene",
+      "note": "两源转写有差异；LeXiK=fʁɛ.ne；Lexique=fʁene"
+    },
+    {
+      "fr": "grignoter",
+      "LeXiK": "/ɡʁi.ɲɔ.te/",
+      "Lexique": "gʁiɲote",
+      "note": "两源转写有差异；LeXiK=ɡʁi.ɲɔ.te；Lexique=gʁiɲote"
+    },
+    {
+      "fr": "locataire",
+      "LeXiK": "/lɔ.ka.tɛʁ/",
+      "Lexique": "lokatɛʁ",
+      "note": "两源转写有差异；LeXiK=lɔ.ka.tɛʁ；Lexique=lokatɛʁ"
+    },
+    {
+      "fr": "monnaie",
+      "LeXiK": "/mɔ.nɛ/",
+      "Lexique": "monɛ",
+      "note": "两源转写有差异；LeXiK=mɔ.nɛ；Lexique=monɛ"
+    },
+    {
+      "fr": "négocier",
+      "LeXiK": "/ne.ɡɔ.sje/",
+      "Lexique": "negosje",
+      "note": "两源转写有差异；LeXiK=ne.ɡɔ.sje；Lexique=negosje"
+    },
+    {
+      "fr": "nettoyer",
+      "LeXiK": "/nɛ.twa.je/",
+      "Lexique": "netwaje",
+      "note": "两源转写有差异；LeXiK=nɛ.twa.je；Lexique=netwaje"
+    },
+    {
+      "fr": "notamment",
+      "LeXiK": "/nɔ.ta.mɑ̃/",
+      "Lexique": "notamɑ̃",
+      "note": "两源转写有差异；LeXiK=nɔ.ta.mɑ̃；Lexique=notamɑ̃"
+    },
+    {
+      "fr": "obligatoire",
+      "LeXiK": "/ɔ.bli.ɡa.twaʁ/",
+      "Lexique": "obligatwaʁ",
+      "note": "两源转写有差异；LeXiK=ɔ.bli.ɡa.twaʁ；Lexique=obligatwaʁ"
+    },
+    {
+      "fr": "ordonnance",
+      "LeXiK": "/ɔʁ.dɔ.nɑ̃s/",
+      "Lexique": "ɔʁdonɑ̃s",
+      "note": "两源转写有差异；LeXiK=ɔʁ.dɔ.nɑ̃s；Lexique=ɔʁdonɑ̃s"
+    },
+    {
+      "fr": "oreiller",
+      "LeXiK": "/ɔ.ʁe.je/",
+      "Lexique": "oʁeje",
+      "note": "两源转写有差异；LeXiK=ɔ.ʁe.je；Lexique=oʁeje"
+    },
+    {
+      "fr": "prévenir",
+      "LeXiK": "/pʁe.və.niʁ/",
+      "Lexique": "pʁɛvəniʁ",
+      "note": "两源转写有差异；LeXiK=pʁe.və.niʁ；Lexique=pʁɛvəniʁ"
+    },
+    {
+      "fr": "promotion",
+      "LeXiK": "/pʁɔ.mɔ.sjɔ̃/",
+      "Lexique": "pʁomosjɔ̃",
+      "note": "两源转写有差异；LeXiK=pʁɔ.mɔ.sjɔ̃；Lexique=pʁomosjɔ̃"
+    },
+    {
+      "fr": "propriétaire",
+      "LeXiK": "/pʁɔ.pʁi.je.tɛʁ/",
+      "Lexique": "pʁopʁijetɛʁ",
+      "note": "两源转写有差异；LeXiK=pʁɔ.pʁi.je.tɛʁ；Lexique=pʁopʁijetɛʁ"
+    },
+    {
+      "fr": "raisonnable",
+      "LeXiK": "/ʁɛ.zɔ.nabl/",
+      "Lexique": "ʁɛzonabl",
+      "note": "两源转写有差异；LeXiK=ʁɛ.zɔ.nabl；Lexique=ʁɛzonabl"
+    },
+    {
+      "fr": "recommander",
+      "LeXiK": "/ʁə.kɔ.mɑ̃.de/",
+      "Lexique": "ʁəkomɑ̃de",
+      "note": "两源转写有差异；LeXiK=ʁə.kɔ.mɑ̃.de；Lexique=ʁəkomɑ̃de"
+    },
+    {
+      "fr": "reporter",
+      "LeXiK": "/ʁə.pɔʁ.te/",
+      "Lexique": "ʁəpoʁte",
+      "note": "两源转写有差异；LeXiK=ʁə.pɔʁ.te；Lexique=ʁəpoʁte"
+    },
+    {
+      "fr": "robinet",
+      "LeXiK": "/ʁɔ.bi.nɛ/",
+      "Lexique": "ʁobinɛ",
+      "note": "两源转写有差异；LeXiK=ʁɔ.bi.nɛ；Lexique=ʁobinɛ"
+    },
+    {
+      "fr": "saigner",
+      "LeXiK": "/sɛ.ɲe/",
+      "Lexique": "seɲe",
+      "note": "两源转写有差异；LeXiK=sɛ.ɲe；Lexique=seɲe"
+    },
+    {
+      "fr": "supposer",
+      "LeXiK": "/sy.pɔ.ze/",
+      "Lexique": "sypoze",
+      "note": "两源转写有差异；LeXiK=sy.pɔ.ze；Lexique=sypoze"
+    },
+    {
+      "fr": "trottoir",
+      "LeXiK": "/tʁɔ.twaʁ/",
+      "Lexique": "tʁotwaʁ",
+      "note": "两源转写有差异；LeXiK=tʁɔ.twaʁ；Lexique=tʁotwaʁ"
+    }
+  ],
+  "ipa_confidence_distribution": {
+    "A": 465,
+    "B": 3
+  },
+  "unit_type_counts": {
+    "词元": 468
+  },
+  "collocations_included": [
+    "besoin → avoir besoin de",
+    "contribuer → contribuer à",
+    "envisager → envisager de",
+    "parler → parler à",
+    "penser → penser à",
+    "préserver → préserver de",
+    "réagir → réagir à",
+    "répondre → répondre à",
+    "venir → venir de",
+    "assister → assister à",
+    "bénéficier → bénéficier de",
+    "convaincre → convaincre qqn de",
+    "dépendre → dépendre de",
+    "empêcher → empêcher qqn de",
+    "hésiter → hésiter à",
+    "renoncer → renoncer à"
+  ],
+  "lexical_source_check": {
+    "source_dir_available": true,
+    "lexique_rows": 189861,
+    "lexique_lemmas_indexed": 65164,
+    "flelex_rows": 14236,
+    "flelex_words_indexed": 13381,
+    "lexik_form_rows_indexed_by_lemma": 2349919,
+    "lexik_lemmas": 682276,
+    "lexik_lemma_properties": 752058,
+    "counts": {
+      "lexique_lemma_found": 468,
+      "flelex_found": 453,
+      "lexik_lemma_found": 468,
+      "ipa_crossmatch": 424,
+      "ipa_source_difference": 44,
+      "lexique_alias_used": 4,
+      "flelex_missing": 15
+    }
+  },
+  "pos_counts": {
+    "v.": 146,
+    "n.m.": 137,
+    "adj.": 46,
+    "n.f.": 110,
+    "adv.": 23,
+    "n.m./f.": 4,
+    "n.f./m.": 2
+  },
+  "batches": {
+    "Day 1": {
+      "count": 234,
+      "range": [
+        1,
+        234
+      ],
+      "flelex_levels": {
+        "A1": 183,
+        "B1": 27,
+        "A2": 13,
+        "B2": 8,
+        "未匹配": 2,
+        "C1": 1
+      },
+      "ipa_source_differences": [
+        "aimer",
+        "améliorer",
+        "collègue",
+        "commencer",
+        "connaître",
+        "disponible",
+        "donner",
+        "fromage",
+        "joli",
+        "négociation",
+        "procédure",
+        "professeur"
+      ]
+    },
+    "Day 2": {
+      "count": 234,
+      "range": [
+        235,
+        468
+      ],
+      "flelex_levels": {
+        "B2": 80,
+        "A2": 26,
+        "B1": 86,
+        "C1": 4,
+        "A1": 24,
+        "未匹配": 13,
+        "C2": 1
+      },
+      "ipa_source_differences": [
+        "accessible",
+        "bricoler",
+        "chronique",
+        "colis",
+        "commande",
+        "commander",
+        "correspondance",
+        "corriger",
+        "dossier",
+        "empêcher",
+        "exposé",
+        "favoriser",
+        "freiner",
+        "grignoter",
+        "locataire",
+        "monnaie",
+        "négocier",
+        "nettoyer",
+        "notamment",
+        "obligatoire",
+        "ordonnance",
+        "oreiller",
+        "prévenir",
+        "promotion",
+        "propriétaire",
+        "raisonnable",
+        "recommander",
+        "reporter",
+        "robinet",
+        "saigner",
+        "supposer",
+        "trottoir"
+      ]
+    }
+  },
+  "daily_targets": [
+    234,
+    234,
+    234,
+    234,
+    234,
+    233,
+    233,
+    233,
+    233,
+    233,
+    233,
+    233,
+    233,
+    233,
+    233
+  ],
+  "day1_count": 234,
+  "daily_actual_counts": [
+    234,
+    234,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "remaining_to_target": 3032
+}
